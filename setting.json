@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://www.fpeedee.com",
+  "target":"https://fpeedee.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -27,13 +27,13 @@
       ],
       "replace-string":[
         {
-          "target":"https://www.fpeedee.com",
+          "target":"https://fpeedee.com",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"https://www.fpeedee.com",
+      "target":"https://fpeedee.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
